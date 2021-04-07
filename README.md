@@ -27,16 +27,16 @@ J2KB 그룹 3: 알고리즘 활용 2
 
 ### 목차
 
-1. <a href="1">브론즈 기초 100제</a>
-2. <a href="2">탐욕법(Greedy) 45제</a>
+1. <a href="#1">브론즈 기초 100제</a>
+2. <a href="#2">탐욕법(Greedy) 45제</a>
 
-3. <a href="3">DP 73제</a>
-4. <a href="4">스택(Stack)</a>
-5. <a href="5">큐(Queue)</a>
-6. <a href="6">BFS/DFS 11제</a>
-7. <a href="7">백트래킹</a>
+3. <a href="#3">DP 73제</a>
+4. <a href="#4">스택(Stack)</a>
+5. <a href="#5">큐(Queue)</a>
+6. <a href="#6">BFS/DFS 11제</a>
+7. <a href="#7">백트래킹</a>
 
-### <a name="#1">브론즈 기초 100제</a>
+### <a name="1">브론즈 기초 100제</a>
 
 개	https://www.acmicpc.net/problem/10172
 
@@ -240,7 +240,7 @@ ACM호텔	https://www.acmicpc.net/problem/10250
 
 
 
-### <a name="#2">탐욕법 45제</a>
+### <a name="2">탐욕법 45제</a>
 
 #### 그리디 추천 16제
 
@@ -338,7 +338,7 @@ A를 B로	https://www.acmicpc.net/problem/13019
 
 
 
-### <a name="#3">DP 73제</a>
+### <a name="3">DP 73제</a>
 
 1로 만들기	https://www.acmicpc.net/problem/1463
 
@@ -444,7 +444,7 @@ Game Addiction	https://www.acmicpc.net/problem/20152
 
 
 
-### <a name="#4">스택(Stack)</a>
+### <a name="4">스택(Stack)</a>
 
 스택	https://www.acmicpc.net/problem/10828
 
@@ -472,7 +472,7 @@ Game Addiction	https://www.acmicpc.net/problem/20152
 
 
 
-### <a name="#5">큐(Queue)</a>
+### <a name="5">큐(Queue)</a>
 
 큐	https://www.acmicpc.net/problem/10845
 
@@ -500,7 +500,7 @@ Game Addiction	https://www.acmicpc.net/problem/20152
 
 
 
-### <a name="#6">BFS/DFS</a>
+### <a name="6">BFS/DFS</a>
 
 DFS와 BFS	https://www.acmicpc.net/problem/1260
 
@@ -526,7 +526,7 @@ DFS와 BFS	https://www.acmicpc.net/problem/1260
 
 
 
-### <a name="#7">백트래킹</a>
+### <a name="7">백트래킹</a>
 
 N과 M (1)	noj.am/15649
 
