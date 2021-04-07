@@ -27,14 +27,14 @@ J2KB 그룹 3: 알고리즘 활용 2
 
 ### 목차
 
-1. <a href="#1">브론즈 기초 100제</a>
-2. <a href="#2">탐욕법(Greedy) 45제</a>
+1. <a href="1">브론즈 기초 100제</a>
+2. <a href="2">탐욕법(Greedy) 45제</a>
 
-3. <a href="#3">DP 73제</a>
-4. <a href="#4">스택(Stack)</a>
-5. <a href="#5">큐(Queue)</a>
-6. <a href="#6">BFS/DFS 11제</a>
-7. <a href="#7">백트래킹</a>
+3. <a href="3">DP 73제</a>
+4. <a href="4">스택(Stack)</a>
+5. <a href="5">큐(Queue)</a>
+6. <a href="6">BFS/DFS 11제</a>
+7. <a href="7">백트래킹</a>
 
 ### <a name="#1">브론즈 기초 100제</a>
 
