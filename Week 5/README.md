@@ -1,6 +1,6 @@
 
 ### 공통 분야
-- Stack/Queue
+Stack/Queue
 
 ### 공통 문제
 1. [9012 괄호](https://www.acmicpc.net/problem/9012)
