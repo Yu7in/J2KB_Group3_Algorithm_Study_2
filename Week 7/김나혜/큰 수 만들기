@@ -1,0 +1,14 @@
+def solution(number, k):
+    answer = ''
+    length = len(number)-k
+    
+    for i in range(length-1,0,-1):
+        highest = max(number[0:-i])
+        answer += highest
+
+        index = number.index(highest)
+        number = number[index+1:]
+    
+    answer += max(number)
+
+    return answer
