@@ -1,0 +1,2 @@
+def solution(phone_num):
+      return "*"*(len(phone_num)-4)+phone_num[-4:]
