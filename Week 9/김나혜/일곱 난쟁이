@@ -9,7 +9,7 @@ for i in range(9):
 
             list.remove(num1)
             list.remove(num2)
-            list.sort() # 오름차순 정리
+            list.sort()
 
             for i in range(len(list)):
                print(list[i])
