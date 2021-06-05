@@ -1,0 +1,16 @@
+N,M = map(int,input().split())
+deck = list(map(int,input().strip().split()))
+
+Max = 0
+length = len(deck)
+
+for i in range(0,length-2):
+    for j in range(i+1,length-1):
+        for k in range(j+1,length):
+            if deck[i] + deck[j] + deck[k] > M:
+                continue
+            else:
+                if Max <= deck[i] + deck[j] + deck[k]:
+                    Max = deck[i] + deck[j] + deck[k]
+
+print(Max)
